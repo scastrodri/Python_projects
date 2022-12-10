@@ -1,4 +1,4 @@
-# Create and 'gues' passwords.
+# Create and 'guess' passwords.
 
 * Creates an 8-letter password by combining characters from three strings (letters, CAPS, numbers).
 * Creates a four-word password by combining words from three lists (nouns, verbs, and adjectives).
