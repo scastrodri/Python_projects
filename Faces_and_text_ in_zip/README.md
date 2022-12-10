@@ -1,4 +1,13 @@
-#  Found faces and text in zip files of images
+#  Found faces and text in zip files of images: Project Overview
 
-The objective is to take a ZIP file of images and process them, Using zipfile library to read the provided file, the OpenCV library to detect faces, pytesseract to do 
-optical character recognition for the text, and finally PIL to composite images together into contact sheets that contain the faces in every image of the zip file.
+* Take a zip file of scanned images. Detect faces and text to find a specific word in every one of the images in the zip file.
+* Print a legend that shows up the amount found of the specific word.
+* With the faces detected create a contact sheet to show every one of them.
+## A sample image
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/a-0.png)
+## Faces found in the sample image
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/faces_in_a-0.png)
+
+## Resources used:
+**Python version:** 3.11
+**Packages:** zipfile, Image, pytesseract, cv2 and numpy.
