@@ -1,4 +1,4 @@
-#  Found faces and text in zip files of images: Project Overview
+#  Found faces and text in zip files of images
 
 * Take a zip file of scanned images. Detect faces and text to find a specific word in every one of the images in the zip file.
 * Print a legend that shows up the amount found of the specific word.
