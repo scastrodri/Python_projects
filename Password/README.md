@@ -6,8 +6,8 @@
 * How many guesses would it take to guess a 4 letters password? - If you change this to a 5-letter password will increase the amount of time due to the calculations.
 
 ## Resources used:
-**Python version:** 3.11
-**Packages:** random
+* **Python version:** 3.11
+* **Packages:** random
 
 ## Little disclaimer
 
