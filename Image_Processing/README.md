@@ -9,4 +9,9 @@ intuitive to use.
 
 ## Resources used:
 * **Python version:** 3.11
-* **Packages:** Image, statistics.
+* **Packages:** Pillow, statistics.
+
+## Basic Filters
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Image_Processing/all_filters.PNG)
+## Image Kernel for cleaning up noise
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Image_Processing/noisy_non-noisy.png)
