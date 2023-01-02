@@ -9,6 +9,6 @@
 * **Packages:** zipfile, Image, pytesseract, cv2 and numpy.
 
 ## A sample image
-![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/a-0.png)
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/a-0.jpg)
 ## Faces found in the sample image
 ![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/faces_in_a-0.png)
