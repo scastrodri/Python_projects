@@ -12,6 +12,6 @@ intuitive to use.
 * **Packages:** Pillow, statistics.
 
 ## Basic Filters
-![alt text](https://github.com/scastrodri/Python_projects/blob/main/Image_Processing/all_filters.PNG)
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Image_Processing/all_filters.jpg)
 ## Image Kernel for cleaning up noise
 ![alt text](https://github.com/scastrodri/Python_projects/blob/main/Image_Processing/noisy_non-noisy.png)
