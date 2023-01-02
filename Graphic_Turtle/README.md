@@ -1,4 +1,4 @@
-# Graphing data with the Turtle
+# Graphing data with the Turtle module
 * There are many tools to graph data, but let's 'code' our own graphs from scratch using the turtle module.
 * The data used is part of [Kiva](http://kiva.org/) that is an international nonprofit, founded in 2005 and based in San Francisco, with a mission to connect people 
 through lending to alleviate poverty.
