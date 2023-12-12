@@ -1,14 +1,15 @@
-#  Found faces and text in zip files of images
+#  Object Detection with Amazon Sagemaker
 
-* Take a zip file of scanned images. Detect faces and text to find a specific word in every one of the images in the zip file.
-* Print a legend that shows up the amount found of the specific word.
-* With the faces detected create a contact sheet to show every one of them.
+* Sagemaker provides a number of machine learning algorithms ready to be used for solving a number of tasks.
+* Train and deploy an object detector using Amazon Sagemaker.
+* Using the SSD Object Detection algorithm from Sagemaker to create, train and deploy a model that will be able to localize faces of dogs and cats from the popular IIIT-Oxford Pets Dataset.
 
 ## Resources used:
-* **Python version:** 3.11
-* **Packages:** zipfile, Image, pytesseract, cv2 and numpy.
+* **Python version:** 3.8
+* **Packages:** os, tarfile, urllib, shutil, json, random, numpy, boto3, sagemaker, tqdm, matplotlib
+* Based on the Coursera guided project [Object Detection with Amazon Sagemaker](https://www.coursera.org/projects/object-detection-sagemaker)
 
 ## A sample image
-![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/a-0.jpg)
-## Faces found in the sample image
-![alt text](https://github.com/scastrodri/Python_projects/blob/main/Faces_and_text_%20in_zip/faces_in_a-0.png)
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Object_Detection_with_Amazon_Sagemaker/Predict.png)
+## A grid of randomly selected annotated images
+![alt text](https://github.com/scastrodri/Python_projects/blob/main/Object_Detection_with_Amazon_Sagemaker/Random_annotations.png)
